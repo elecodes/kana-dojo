@@ -347,7 +347,7 @@
     "id": 58,
     "text": "\"〜ようにする\" means \"make an effort to...\".",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 59,
@@ -358,14 +358,14 @@
   {
     "id": 60,
     "text": "\"〜にしては\" means \"considering...\".",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
     "id": 61,
     "text": "\"〜にとって\" means \"for / to (someone)\".",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 62,
