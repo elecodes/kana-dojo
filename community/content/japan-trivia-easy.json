@@ -239,5 +239,38 @@
       "Kobe"
     ],
     "correctIndex": 0
+  },
+  {
+  "question": "Which city is known for its large bronze Great Buddha?",
+  "difficulty": "easy",
+  "answers": [
+    "Kamakura",
+    "Kobe",
+    "Kanazawa",
+    "Matsuyama"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Which Japanese food is a savory pancake cooked on a griddle?",
+  "difficulty": "easy",
+  "answers": [
+    "Okonomiyaki",
+    "Tempura",
+    "Yakitori",
+    "Sashimi"
+  ],
+  "correctIndex": 0
+},
+  {
+  "question": "Which Japanese island is home to the city of Sapporo? (Community variation 5)",
+  "difficulty": "easy",
+  "answers": [
+    "Honshu",
+    "Hokkaido",
+    "Shikoku",
+    "Kyushu"
+  ],
+  "correctIndex": 1
   }
 ]
