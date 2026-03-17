@@ -272,5 +272,27 @@
     "Kyushu"
   ],
   "correctIndex": 1
-  }
+  },
+  {
+  "question": "Which city is famous for the Gion Matsuri festival?",
+  "difficulty": "easy",
+  "answers": [
+    "Kyoto",
+    "Sendai",
+    "Sapporo",
+    "Kobe"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Which city is known for its beef brand Kobe?",
+  "difficulty": "easy",
+  "answers": [
+    "Kobe",
+    "Nagoya",
+    "Kanazawa",
+    "Hiroshima"
+  ],
+  "correctIndex": 0
+}
 ]
